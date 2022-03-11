@@ -1,0 +1,38 @@
+﻿@using BOL
+@using DAL1
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<hr />
+<a href="/home/index">Home</a> | <a href="/home/aboutus">AboutUs</a> | <a href="/home/contact">Contact</a>  | <a href="/product/index">Products</a>
+<hr />
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Discription</th>
+        <th>Price</th>
+    </tr>
+
+
+
+    @{
+        List<Product> list = ProductDAO.GetAll();
+        foreach (Product item in list)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.discription</td>
+                <td>@item.price</td>
+                <td><a href="/product/edit/@item.id">Edit</a></td>
+                <td><a href="/product/remove/@item.id">Remove</a></td>
+
+            </tr>
+        }
+
+    }
+</table>

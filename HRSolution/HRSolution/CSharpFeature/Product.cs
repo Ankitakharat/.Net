@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpFeature
+{
+    //Business Entity Class
+    //POCO class
+    public class Product
+    {
+        //Auto property
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public int Quantity { get; set; }
+        public double UnitPrice { get; set; }
+
+        
+
+        public override string ToString()
+        {
+            return this.Id + " " + this.Title + " "+this.Description+" "+this.Quantity+" "+ this.UnitPrice;
+
+        }
+    }
+}

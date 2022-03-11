@@ -1,0 +1,6 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\bin\Debug\HRlib.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\bin\Debug\HRlib.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\obj\Debug\HRlib.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\obj\Debug\HRlib.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\obj\Debug\HRlib.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRlib\obj\Debug\HRlib.pdb

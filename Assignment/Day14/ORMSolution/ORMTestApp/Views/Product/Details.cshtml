@@ -1,0 +1,16 @@
+﻿@using ORMTestApp.Models
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<hr />
+@{
+    Product product = ViewData["product"] as Product;
+    <hr />
+    <p> Title: @product.Name</p>
+    <p> Title: @product.Discription</p>
+    <p> Title: @product.Price</p>
+}

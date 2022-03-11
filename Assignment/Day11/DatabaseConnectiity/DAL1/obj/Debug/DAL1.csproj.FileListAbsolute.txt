@@ -1,0 +1,64 @@
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.dll.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BOL.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\MySql.Data.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Buffers.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Memory.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Numerics.Vectors.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\ZstdNet.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BOL.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Hash.xxHash.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\MySql.Data.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Buffers.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Memory.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Numerics.Vectors.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.AssemblyReference.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.CoreCompileInputs.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.CopyComplete
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.dll.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\DAL1.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\MySql.Data.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Buffers.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Memory.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\ZstdNet.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\BOL.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\Google.Protobuf.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\MySql.Data.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Buffers.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Memory.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.csproj.CopyComplete
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DAL1\obj\Debug\DAL1.pdb

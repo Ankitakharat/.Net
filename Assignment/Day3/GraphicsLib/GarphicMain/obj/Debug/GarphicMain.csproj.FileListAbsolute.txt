@@ -1,0 +1,10 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\bin\Debug\GarphicMain.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\bin\Debug\GarphicMain.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\bin\Debug\GarphicMain.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\bin\Debug\GraphicsLib.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\bin\Debug\GraphicsLib.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\obj\Debug\GarphicMain.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\obj\Debug\GarphicMain.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\obj\Debug\GarphicMain.csproj.CopyComplete
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\obj\Debug\GarphicMain.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day3\GraphicsLib\GarphicMain\obj\Debug\GarphicMain.pdb

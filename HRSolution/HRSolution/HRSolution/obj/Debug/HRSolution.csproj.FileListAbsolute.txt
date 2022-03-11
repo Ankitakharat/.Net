@@ -1,0 +1,10 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\bin\Debug\HRSolution.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\bin\Debug\HRSolution.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\bin\Debug\HRSolution.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\bin\Debug\HRlib.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\bin\Debug\HRlib.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\obj\Debug\HRSolution.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\obj\Debug\HRSolution.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\obj\Debug\HRSolution.csproj.CopyComplete
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\obj\Debug\HRSolution.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\HRSolution\obj\Debug\HRSolution.pdb

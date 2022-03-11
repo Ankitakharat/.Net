@@ -1,0 +1,19 @@
+﻿@using FeedBackApp.Models
+@{ ViewBag.Title = "AllFeedback"; }
+
+<h2>All Feedback</h2>
+<hr />
+@using FeedbackApp.Models
+@{ ViewBag.Title = "AllFeedbacks"; }
+
+<h2>AllFeedbacks</h2>
+
+
+<hr />
+<p><a href="/home/index">Home</a> | <a href="/account/login">Login</a> | <a href="/feedback/allfeedback">AllFeedback</a> | <a href="/feedback/insert">Insert</a></p>
+<hr />
+@{ List<Feedback> feedbacks = ViewData["feedbacks"] as List<Feedback>;
+                foreach (Feedback feedback in feedbacks)
+                {
+    <p>Faculty: @feedback.Faculty --> <a href="/feedback/view/@feedback.Id">View Feeback</a> | <a href="/feedback/edit/@feedback.Id">Edit Feeback</a> |<a href="/feedback/delete/@feedback.Id">Delete</a> </p>
+                    <br /> } }

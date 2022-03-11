@@ -1,0 +1,16 @@
+﻿@using FeedBackApp.Models;
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>Feedback Details</h2>
+</hr>
+
+@{ 
+    Feedback feedback = ViewData["feedbacks"] as Feedback;
+    <p>Faculty :@feedback.Faculty</p>
+    <p>Module : @feedback.Module</p>
+    <p>Rating : @feedback.Rating</p>
+}
+
+

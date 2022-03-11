@@ -1,0 +1,18 @@
+﻿@using Exam.Models
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+<hr />
+
+@{ Workshop workshop = ViewData["workshops"] as Workshop;
+    <p>Name:@workshop.Name</p>
+    <p>Topic:@workshop.Topic</p>
+    <p>Description:@workshop. Topics_brief_desciption</p>
+    <p>Presenters Name:@workshop.Presenters_name</p>
+    <p>Location:@workshop.Location</p>
+
+
+
+}

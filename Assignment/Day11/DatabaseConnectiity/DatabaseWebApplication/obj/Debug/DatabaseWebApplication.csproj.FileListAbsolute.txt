@@ -1,0 +1,194 @@
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.dll.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.exe
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.exe.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.rsp
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.exe
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.exe.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.rsp
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.AppContext.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Console.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.Compression.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Net.Http.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Net.Sockets.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.ValueTuple.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.exe
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.exe.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.rsp
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BOL.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Helpers.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Mvc.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Razor.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Razor.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\MySql.Data.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\ZstdNet.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.Streams.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BouncyCastle.Crypto.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Ubiety.Dns.Core.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Memory.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Buffers.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Hash.xxHash.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Numerics.Vectors.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BOL.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.dll.config
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Razor.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Razor.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Helpers.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Mvc.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\MySql.Data.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.Streams.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Memory.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Buffers.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Hash.xxHash.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Numerics.Vectors.xml
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.AssemblyReference.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.CoreCompileInputs.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.CopyComplete
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.dll.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DatabaseWebApplication.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csc.rsp
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\csi.rsp
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Console.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Razor.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\MySql.Data.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\ZstdNet.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BouncyCastle.Crypto.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Ubiety.Dns.Core.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Memory.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Buffers.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Hash.xxHash.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\BOL.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\DAL1.dll.config
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Razor.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\MySql.Data.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\Google.Protobuf.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Memory.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Buffers.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Compression.LZ4.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\K4os.Hash.xxHash.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.csproj.CopyComplete
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\DatabaseWebApplication\obj\Debug\DatabaseWebApplication.pdb

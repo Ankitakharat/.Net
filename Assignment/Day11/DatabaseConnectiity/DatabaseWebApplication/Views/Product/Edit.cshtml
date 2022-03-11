@@ -1,0 +1,12 @@
+﻿@{ ViewBag.Title = "Edit"; }
+
+<form method="post" action="/product/edit">
+    <pre>
+Enter new dress information:
+Id:<input type="text" id="id" value="@ViewBag.Product.id" readonly name="id">
+<br />
+Name:<input type="text" id="type" value="@ViewBag.Product.name" name="name" />
+<br />
+<button type="submit" value="Update">Update</button>
+</pre>
+</form>

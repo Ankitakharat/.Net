@@ -1,0 +1,16 @@
+﻿@using ORMTestApp.Models
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.ActionLink("Insert new", "Create")
+@{
+    List<Product> allProducts = ViewData["products"] as List<Product>;
+
+    foreach (Product product in allProducts)
+    {
+        <p> @product.Name <a href="/product/details/@product.Id">Details</a> |<a href="/product/edit/@product.Id">Update</a>|<a href="/product/delete/@product.Id">Delete</a> </p>
+    }
+}

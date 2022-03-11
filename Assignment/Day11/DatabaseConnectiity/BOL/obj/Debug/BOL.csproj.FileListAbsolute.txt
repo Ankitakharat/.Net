@@ -1,0 +1,12 @@
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\bin\Debug\BOL.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\bin\Debug\BOL.pdb
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.dll
+D:\Mau Study\IET STUDY MATERIAL\.Net\assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\bin\Debug\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\bin\Debug\BOL.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day11\DatabaseConnectiity\BOL\obj\Debug\BOL.pdb

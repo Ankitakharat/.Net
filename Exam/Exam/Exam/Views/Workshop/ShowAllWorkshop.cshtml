@@ -1,0 +1,17 @@
+﻿@using Exam.Models
+@{
+    ViewBag.Title = "ShowAllWorkshop";
+}
+
+<h2>ShowAllWorkshop</h2>
+
+<hr />
+<p><a href="/home/index">Home</a> | <a href="/account/login">Login</a> | <a href="/workshop/showallworkshop">ShowAllWorkshop</a> | <a href="/workshop/insert">Insert</a></p>
+<hr />
+@{ List<Workshop> workshops = ViewData["workshops"] as List<Workshop>;
+    foreach (Workshop workshop in workshops)
+    {
+     <p><a href="/workshop/view/@workshop.Id">View Workshop</a> | <a href="/workshop/edit/@workshop.Id">Edit Workshop</a> |<a href="/workshop/delete/@workshop.Id">Delete</a></p>
+                <br />
+    } 
+ }

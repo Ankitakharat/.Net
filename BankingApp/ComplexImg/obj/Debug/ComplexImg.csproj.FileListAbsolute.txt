@@ -1,0 +1,7 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\bin\Debug\ComplexImg.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\bin\Debug\ComplexImg.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\bin\Debug\ComplexImg.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\obj\Debug\ComplexImg.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\obj\Debug\ComplexImg.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\obj\Debug\ComplexImg.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\ComplexImg\obj\Debug\ComplexImg.pdb

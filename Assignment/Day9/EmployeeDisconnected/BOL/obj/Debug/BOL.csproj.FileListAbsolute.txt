@@ -1,0 +1,6 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\bin\Debug\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\bin\Debug\BOL.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\obj\Debug\BOL.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\Assignment\Day9\EmployeeDisconnected\BOL\obj\Debug\BOL.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\bin\Debug\AssignBank.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\bin\Debug\AssignBank.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\bin\Debug\AssignBank.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\obj\Debug\AssignBank.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\obj\Debug\AssignBank.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\obj\Debug\AssignBank.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\AssignBank\obj\Debug\AssignBank.pdb

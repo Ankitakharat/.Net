@@ -1,0 +1,6 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\obj\Debug\CSharpFeature.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\bin\Debug\CSharpFeature.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\bin\Debug\CSharpFeature.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\bin\Debug\CSharpFeature.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\obj\Debug\CSharpFeature.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\CSharpFeature\obj\Debug\CSharpFeature.pdb

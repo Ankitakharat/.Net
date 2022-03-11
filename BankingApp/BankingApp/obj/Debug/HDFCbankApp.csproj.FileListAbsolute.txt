@@ -1,0 +1,10 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\bin\Debug\ClassLibraryBank.dll
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\bin\Debug\ClassLibraryBank.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\obj\Debug\HDFCbankApp.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\obj\Debug\HDFCbankApp.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\obj\Debug\HDFCbankApp.csproj.CopyComplete
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\BankingApp\BankingApp\obj\Debug\BankingApp.pdb

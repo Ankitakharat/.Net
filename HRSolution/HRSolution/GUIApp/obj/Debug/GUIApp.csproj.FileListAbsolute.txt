@@ -1,0 +1,10 @@
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\bin\Debug\GUIApp.exe.config
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\bin\Debug\GUIApp.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\bin\Debug\GUIApp.pdb
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.csproj.AssemblyReference.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.Form1.resources
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.Properties.Resources.resources
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.csproj.GenerateResource.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.exe
+C:\Users\Ankita\Desktop\CDAC\.NET\HRSolution\HRSolution\GUIApp\obj\Debug\GUIApp.pdb
